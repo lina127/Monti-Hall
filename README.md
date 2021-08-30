@@ -1,7 +1,7 @@
 # Monti-Hall
  
-####Monti hall is a tricky probability game. It does not make sense until you put in to the code. 
-#####This is a scenario:  
+#### Monti hall is a tricky probability game. It does not make sense until you put in to the code. 
+##### This is a scenario:  
 1. You are at the game show. 
 1. There are 3 doors with 2 goats and 1 car behind. 
 1. You choose a door. 
