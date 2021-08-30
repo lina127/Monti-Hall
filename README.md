@@ -8,5 +8,5 @@
 2. The host opens another door where the goat is behind and asks, ' Do you want to change the door? '.  
   
 This seems like the probability of remaining two doors are same. 50% each.  
-However, this project shows that changing the door is about 2 times higher(2/3) to get a car than staying at your first choice of the door(1/3).  
+However, this project shows that changing the door is about 2 times higher(66%) to get a car than staying at your first choice of the door(33%).  
 Therefore, you must change your choice to be in a higher probability of winning the car.
